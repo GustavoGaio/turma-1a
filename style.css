@@ -2,6 +2,10 @@ body {
     background: rgba(115, 239, 255, 0.418);
     font-size: 25px;
 }
+title {
+    font-size:45px;
+    text-align: center;
+}
 h1 {
     font-size: 40px;
     text-align: center;
